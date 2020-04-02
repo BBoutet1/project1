@@ -39,6 +39,10 @@ most want to make.
 Clicking on the dish will bring you to the recipe page where you can find 
 the instructions
 
+## Future development:
+
+Wikipedia API to be replaced by a recipe API for appropriate dish search results.
+
 ## Link:
 Deployed Link: https://mg-cpu90.github.io/project1/
 GitHub Repo: https://github.com/MG-cpu90/project1
